@@ -1,0 +1,44 @@
+site_name: MetaFold User Guide
+
+nav:
+  - Home: index.md
+  
+  - Getting Started:
+    - Installation: installation.md
+    - First Steps: first-steps.md
+    - Interface Overview: interface-overview.md
+  
+  - Basic Usage:
+    - Template Management: templates.md
+    - Creating Projects: project-creation.md
+    - Working with Metadata: metadata-guide.md
+  
+  - Laboratory Integration:
+    - elabFTW Integration: elabftw-integration.md
+    - OMERO Integration: omero-integration.md
+    - Combined Workflows: combined-integrations.md
+  
+  - Advanced Features:
+    - Project Discovery: project-scanner.md
+    - Data Visualization: data-visualization.md
+    - User Management: user-management.md
+    - Security & Credentials: security.md
+  
+  - Tutorials:
+    - Basic Experiment Setup: tutorials/basic-experiment.md
+    - Advanced Metadata Schemas: tutorials/advanced-metadata.md
+    - Integration Workflows: tutorials/integration-workflows.md
+    - Multi-User Setup: tutorials/multi-user-setup.md
+  
+  - Reference:
+    - Template Schema Reference: reference/template-schema.md
+    - Integration APIs: reference/integration-apis.md
+    - File Formats: reference/file-formats.md
+    - Troubleshooting: reference/troubleshooting.md
+
+
+theme:
+   name: readthedocs
+   logo: assets/logo.png
+   favicon: assets/favicon.png
+  
