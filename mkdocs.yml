@@ -25,16 +25,16 @@ nav:
     - Security & Credentials: security.md
   
   - Tutorials:
-    - Basic Experiment Setup: tutorials/basic-experiment.md
-    - Advanced Metadata Schemas: tutorials/advanced-metadata.md
-    - Integration Workflows: tutorials/integration-workflows.md
-    - Multi-User Setup: tutorials/multi-user-setup.md
+    - Basic Experiment Setup: ../tutorials/basic-experiment.md
+    - Advanced Metadata Schemas: ../tutorials/advanced-metadata.md
+    - Integration Workflows: ../tutorials/integration-workflows.md
+    - Multi-User Setup: ../tutorials/multi-user-setup.md
   
   - Reference:
-    - Template Schema Reference: reference/template-schema.md
-    - Integration APIs: reference/integration-apis.md
-    - File Formats: reference/file-formats.md
-    - Troubleshooting: reference/troubleshooting.md
+    - Template Schema Reference: ../reference/template-schema.md
+    - Integration APIs: ../reference/integration-apis.md
+    - File Formats: ../reference/file-formats.md
+    - Troubleshooting: ../reference/troubleshooting.md
 
 
 theme:
